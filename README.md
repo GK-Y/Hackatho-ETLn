@@ -1,6 +1,6 @@
-# Hackathon ETL v2
+# Hackathon Dynamic ETL
 
-#!!Please clone it into windows C drive !!
+# !! Please clone it into windows C drive !!
 
 ## Setup
 1. Create venv: `python -m venv venv`
