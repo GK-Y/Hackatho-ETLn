@@ -1,0 +1,43 @@
+{
+  "repaired_count": 4,
+  "failed_count": 0,
+  "repaired": [
+    {
+      "_id": "691880a58a86407e2ff9fe01",
+      "updates": {
+        "$unset": {
+          "curl -F \"file=@/mnt/data/etl_test_files/tierA_simple_kv_json.txt\" -F \"source_id=test_source\" http": ""
+        },
+        "$set": {}
+      }
+    },
+    {
+      "_id": "691881c21727fb3d24fc78f4",
+      "updates": {
+        "$unset": {
+          "curl -F \"file=@/mnt/data/etl_test_files/tierA_simple_kv_json.txt\" -F \"source_id=test_source\" http": ""
+        },
+        "$set": {}
+      }
+    },
+    {
+      "_id": "69188261df2fa7bb91808d7a",
+      "updates": {
+        "$unset": {
+          "curl -F \"file=@/mnt/data/etl_test_files/tierA_simple_kv_json.txt\" -F \"source_id=test_source\" http": ""
+        },
+        "$set": {}
+      }
+    },
+    {
+      "_id": "69188a91ff6409490ebfb216",
+      "updates": {
+        "$unset": {
+          "curl -F \"file=@/mnt/data/etl_test_files/tierA_simple_kv_json.txt\" -F \"source_id=test_source\" http": ""
+        },
+        "$set": {}
+      }
+    }
+  ],
+  "failed": []
+}

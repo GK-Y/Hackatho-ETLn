@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ETL Dashboard</title>
+    <style>
+        body { font-family: Arial; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; }
+        .added { color: green; }
+        .removed { color: red; }
+        .changed { color: orange; }
+    </style>
+    <script>
+        async function loadChunks(sourceId) {
+            const res = await fetch(`/records?source_id=${sourceId}`);
+            const data = await res.json();
+            let html = '<table><tr><th>Chunk</th></tr>';
+            data.forEach(item => {
+                html += `<tr><td>${JSON.stringify(item)}</td></tr>`;
+            });
+            html += '</table>';
+            document.getElementById('chunks').innerHTML = html;
+        }
+
+        async function loadTimeline(sourceId) {
+            const res = await fetch(`/schema/history?source_id=${sourceId}`);
+            const {schemas, diffs} = await res.json();
+            let html = '<table><tr><th>Version</th><th>Generated At</th></tr>';
+            schemas.forEach(s => {
+                html += `<tr><td>${s.version}</td><td>${s.generated_at}</td></tr>`;
+            });
+            html += '</table>';
+            document.getElementById('timeline').innerHTML = html;
+        }
+
+        async function loadDiff(sourceId, v1, v2) {
+            const res = await fetch(`/schema/history?source_id=${sourceId}`);
+            const {diffs} = await res.json();
+            // Simple: show all diffs
+            let html = '<ul>';
+            diffs.forEach(d => {
+                Object.entries(d.added_fields).forEach(([k, v]) => html += `<li class="added">Added ${k}: ${v.type}</li>`);
+                Object.entries(d.removed_fields).forEach(([k, v]) => html += `<li class="removed">Removed ${k}</li>`);
+                Object.entries(d.type_changes).forEach(([k, v]) => html += `<li class="changed">Changed ${k}: ${v.old.type} -> ${v.new.type}</li>`);
+            });
+            html += '</ul>';
+            document.getElementById('diff').innerHTML = html;
+        }
+
+        function init() {
+            const sourceId = 'test_source';  // Change as needed
+            loadChunks(sourceId);
+            loadTimeline(sourceId);
+            loadDiff(sourceId, 1, 2);  // Example versions
+        }
+    </script>
+</head>
+<body onload="init()">
+    <h1>ETL Dashboard</h1>
+    <h2>Processed Chunks</h2>
+    <div id="chunks"></div>
+    <h2>Schema Evolution Timeline</h2>
+    <div id="timeline"></div>
+    <h2>Schema Diff</h2>
+    <div id="diff"></div>
+</body>
+</html>

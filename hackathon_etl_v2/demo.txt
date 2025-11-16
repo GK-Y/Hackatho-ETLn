@@ -1,0 +1,37 @@
+Demo script (3–5 minutes)
+
+Start services:
+1) docker start mongo-hackathon
+2) In backend terminal:
+   cd C:\Hackathon\hackathon_etl_v2
+   .\venv\Scripts\Activate.ps1
+   (venv) python -m uvicorn api.api:app --reload --host 127.0.0.1 --port 8000
+
+3) In frontend terminal:
+   cd C:\Hackathon\frontend
+   npm run dev
+
+Walkthrough:
+0:00 - 0:20 — Intro
+- "Hi, I'm [name]. This is a lightweight, judge-friendly frontend for our dynamic ETL pipeline. It's optimized for low-end machines (Pentium Gold, 12GB RAM)."
+
+0:20 - 1:00 — Dashboard
+- Show Dashboard quick stats: total sources, total records, total chunks, last upload.
+- Explain sparkline shows recent ingestion counts (pre-aggregated).
+
+1:00 - 2:00 — Sources & safe management
+- Open Sources. Show a dataset row.
+- Click "Visualize" to open charts (lazy-loaded).
+- Click "Backup" — show mongodump command in modal, explain the requirement to run it locally.
+- Click "Delete" — show two-step safety: generate backup, type source_id, then confirm. Backend renames collection into quarantine (non-destructive).
+
+2:00 - 3:00 — Visualize & Records
+- Visualize page: donut for chunk types, bar chart for top fields, schema evolution line, token cloud.
+- Records page: demonstrate virtualization (scroll smoothly), open Inspect JSON, and Download a record.
+- Mention fallback behavior: token cloud computed client-side only for first 300 records if backend lacks tokens.
+
+3:00 - 3:30 — Demo Mode & offline
+- Switch to Demo Mode to show judges they can interact without any server.
+
+3:30 - 4:00 — Closing
+- Summarize: safe admin workflow (backup → delete → audit), demoability, and performance optimizations that make this UI snappy on low-end hardware.

@@ -1,0 +1,22 @@
+{"id": 1, "name": "Alice", "age": 25}
+{"id": 2, "name": "Bob", "age": 30}
+name,age,city
+Alice,25,NYC
+Bob,30,LA
+{"id": 3, "name": "Charlie", "email": "c@x.com"}
+{"id": 4, "name": "Dave", "age": null, "email": "d@x.com"}
+<table><tr><th>Product</th><th>Price</th></tr><tr><td>Laptop</td><td>999</td></tr></table>
+title: Widget A - Special Edition
+price: $9.99
+currency: USD
+availability: In Stock
+---
+title: Widget A - 2025
+published: 2025-11-18
+authors:
+  - "Editorial Team"
+tags:
+  - "gadget"
+  - "featured"
+---
+This is raw text paragraph with no structure.
