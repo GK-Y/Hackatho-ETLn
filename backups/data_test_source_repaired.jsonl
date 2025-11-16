@@ -1,0 +1,311 @@
+{"_id": {"$oid": "6918743e5e1b4c4d4cf0377c"}, "id": 1, "name": "Alice", "age": 25}
+{"_id": {"$oid": "6918743e5e1b4c4d4cf0377d"}, "{\"id\"": "4, \"name\": \"Dave\", \"age\": null, \"email\": \"d@x.com\"}", "title": "Widget A - 2025", "price": "$9.99", "currency": "USD", "availability": "In Stock", "published": "2025-11-18", "authors": "", "tags": ""}
+{"_id": {"$oid": "6918743e5e1b4c4d4cf0377e"}, "id": 2, "name": "Bob", "age": 30}
+{"_id": {"$oid": "6918743e5e1b4c4d4cf0377f"}, "id": 3, "name": "Charlie", "email": "c@x.com"}
+{"_id": {"$oid": "6918743e5e1b4c4d4cf03780"}, "id": 4, "name": "Dave", "age": null, "email": "d@x.com"}
+{"_id": {"$oid": "6918743e5e1b4c4d4cf03781"}, "col_0": "Laptop"}
+{"_id": {"$oid": "6918743e5e1b4c4d4cf03782"}, "title": "Widget A - Special Edition", "price": "$9.99", "currency": "USD", "availability": "In Stock"}
+{"_id": {"$oid": "6918743e5e1b4c4d4cf03783"}, "title": "Widget A - 2025", "published": "2025-11-18", "authors": ["Editorial Team"], "tags": ["gadget", "featured"]}
+{"_id": {"$oid": "6918743e5e1b4c4d4cf03784"}, "value": "This is raw text paragraph with no structure."}
+{"_id": {"$oid": "691875b25e049963a919cf48"}, "goal": "", "types": "", "parsing": "", "contract": "", "flow": "", "endpoints": "", "Optional": "", "storage": "", "key": "", "where": "", "": "", "Note": "", "handling": "", "A/B/C": "", "response": "", "json_fragments": "", "html_tables": "", "kv_pairs": "", "include": "", "mapping": "", "strategy": "", "must": "", "either": "", "expects": "", "test": "", "will": "", "file": "", "queries": "", "categories": "", "(multipart)": "", "Content-Type": "", "fields": "", "example": "", "\"status\"": "", "\"source_id\"": "", "\"file_id\"": "", "\"schema_id\"": "\"schema_v7\",", "\"parsed_fragments_summary\"": "", "{\"json_fragments\"": "2,", "\"html_tables\"": "1,", "\"kv_pairs\"": "12}", "(canonical)": "", "\"generated_at\"": "\"2025-11-15T08:00:00Z\",", "\"compatible_dbs\"": "[\"postgresql\",\"mongodb\"],", "\"fields\"": "[", "{\"name\"": "\"price\",\"path\":\"$.pricing.price\",\"type\":\"decimal\",\"nullable\":true,\"example\":9.99,\"confidenc", "A\",\"confidence\"": "0.98},", "e\"": "0.87}", "\"primary_key_candidates\"": "[\"id\",\"slug\"],", "\"migration_notes\"": "\"Added", "Appendix": "", "Source": "", "scraped_at": "", "2025-11-10T14": "22:00+05:30", "(key": "", "source": "", "https": "//example.com/product/widget-a", "scraper": "", "lang": "", "publisher": "", "contact": "", "locales": "", "PDFs": "", "\"id\"": "", "\"title\"": "", "\"slug\"": "", "\"pricing\"": "", "\"price_usd\"": "", "\"inventory\"": "", "\"currency_hint\"": "", "\"tags\"": "", "\"dimensions\"": "", "{\"w_mm\"": "", "\"h_mm\"": "", "\"d_mm\"": "", "\"release_date\"": "", "\"specs\"": "", "\"color\"": "", "\"weight\"": "", "\"notes\"": "", "title": "", "price": "", "currency": "", "availability": "", "tags": "", "\"@context\"": "", "\"http": "//schema.org/InStock\",", "\"@type\"": "", "\"name\"": "", "\"image\"": "", "\"https": "//example.com/product/widget-a\"", "\"description\"": "", "\"sku\"": "", "\"offers\"": "", "\"priceCurrency\"": "", "\"price\"": "", "\"availability\"": "", "\"url\"": "", "{id": "", "promo": "", "code": "", "SQL": "", "l0cation": "", "items": "", "price_usd": "", "legacy_price": "", "currency_hint": "", "views": "", "sold": "", "rating_avg": "", "is_featured": "", "is_limited": "", "2025-11-20": "", "\"currency\"": "", "\"metadata\"": "", "\"imported_from\"": "", "\"ingested_at\"": "", "\"2025-11-20T09": "10:00+05:30\"", "\"views\"": "", "flip": "", "\"ratings\"": "", "\"avg\"": "", "\"count\"": "", "published": "", "authors": ""}
+{"_id": {"$oid": "691875b25e049963a919cf49"}, "col_0": "Alice"}
+{"_id": {"$oid": "691875b25e049963a919cf4a"}, "col_0": "Bob"}
+{"_id": {"$oid": "691875b25e049963a919cf4b"}, "col_0": "Charlie"}
+{"_id": {"$oid": "6918776efc257d444a21ec86"}, "goal": "", "types": "", "parsing": "", "contract": "", "flow": "", "endpoints": "", "Optional": "", "storage": "", "key": "", "where": "", "": "", "Note": "", "handling": "", "A/B/C": "", "response": "", "json_fragments": "", "html_tables": "", "kv_pairs": "", "include": "", "mapping": "", "strategy": "", "must": "", "either": "", "expects": "", "test": "", "will": "", "file": "", "queries": "", "categories": "", "(multipart)": "", "Content-Type": "", "fields": "", "example": "", "\"status\"": "", "\"source_id\"": "", "\"file_id\"": "", "\"schema_id\"": "\"schema_v7\",", "\"parsed_fragments_summary\"": "", "{\"json_fragments\"": "2,", "\"html_tables\"": "1,", "\"kv_pairs\"": "12}", "(canonical)": "", "\"generated_at\"": "\"2025-11-15T08:00:00Z\",", "\"compatible_dbs\"": "[\"postgresql\",\"mongodb\"],", "\"fields\"": "[", "{\"name\"": "\"price\",\"path\":\"$.pricing.price\",\"type\":\"decimal\",\"nullable\":true,\"example\":9.99,\"confidenc", "A\",\"confidence\"": "0.98},", "e\"": "0.87}", "\"primary_key_candidates\"": "[\"id\",\"slug\"],", "\"migration_notes\"": "\"Added", "Appendix": "", "Source": "", "scraped_at": "", "2025-11-10T14": "22:00+05:30", "(key": "", "source": "", "https": "//example.com/product/widget-a", "scraper": "", "lang": "", "publisher": "", "contact": "", "locales": "", "PDFs": "", "\"id\"": "", "\"title\"": "", "\"slug\"": "", "\"pricing\"": "", "\"price_usd\"": "", "\"inventory\"": "", "\"currency_hint\"": "", "\"tags\"": "", "\"dimensions\"": "", "{\"w_mm\"": "", "\"h_mm\"": "", "\"d_mm\"": "", "\"release_date\"": "", "\"specs\"": "", "\"color\"": "", "\"weight\"": "", "\"notes\"": "", "title": "", "price": "", "currency": "", "availability": "", "tags": "", "\"@context\"": "", "\"http": "//schema.org/InStock\",", "\"@type\"": "", "\"name\"": "", "\"image\"": "", "\"https": "//example.com/product/widget-a\"", "\"description\"": "", "\"sku\"": "", "\"offers\"": "", "\"priceCurrency\"": "", "\"price\"": "", "\"availability\"": "", "\"url\"": "", "{id": "", "promo": "", "code": "", "SQL": "", "l0cation": "", "items": "", "price_usd": "", "legacy_price": "", "currency_hint": "", "views": "", "sold": "", "rating_avg": "", "is_featured": "", "is_limited": "", "2025-11-20": "", "\"currency\"": "", "\"metadata\"": "", "\"imported_from\"": "", "\"ingested_at\"": "", "\"2025-11-20T09": "10:00+05:30\"", "\"views\"": "", "flip": "", "\"ratings\"": "", "\"avg\"": "", "\"count\"": "", "published": "", "authors": ""}
+{"_id": {"$oid": "6918776efc257d444a21ec87"}, "col_0": "Alice"}
+{"_id": {"$oid": "6918776efc257d444a21ec88"}, "col_0": "Bob"}
+{"_id": {"$oid": "6918776efc257d444a21ec89"}, "col_0": "Charlie"}
+{"_id": {"$oid": "691878d793c73b4d17285959"}, "id": 1, "name": "Alice", "age": 25}
+{"_id": {"$oid": "691878d793c73b4d1728595a"}, "_raw": "{\"id\": 1, \"name\": \"Alice\", \"age\": 25}", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878d793c73b4d1728595b"}, "{\"id\"": "4, \"name\": \"Dave\", \"age\": null, \"email\": \"d@x.com\"}", "title": "Widget A - 2025", "price": "$9.99", "currency": "USD", "availability": "In Stock", "published": "2025-11-18", "authors": "", "tags": ""}
+{"_id": {"$oid": "691878d793c73b4d1728595c"}, "id": 2, "name": "Bob", "age": 30}
+{"_id": {"$oid": "691878d793c73b4d1728595d"}, "_raw": "{\"id\": 2, \"name\": \"Bob\", \"age\": 30}", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878d793c73b4d1728595e"}, "_raw": "name,age,city", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878d793c73b4d1728595f"}, "_raw": "Alice,25,NYC", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878d793c73b4d17285960"}, "_raw": "Bob,30,LA", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878d793c73b4d17285961"}, "id": 3, "name": "Charlie", "email": "c@x.com"}
+{"_id": {"$oid": "691878d793c73b4d17285962"}, "_raw": "{\"id\": 3, \"name\": \"Charlie\", \"email\": \"c@x.com\"}", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878d793c73b4d17285963"}, "id": 4, "name": "Dave", "age": null, "email": "d@x.com"}
+{"_id": {"$oid": "691878d793c73b4d17285964"}, "_raw": "{\"id\": 4, \"name\": \"Dave\", \"age\": null, \"email\": \"d@x.com\"}", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878d793c73b4d17285965"}, "_raw": "<table><tr><th>Product</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878d793c73b4d17285966"}, "_raw": "<th>Price</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878d793c73b4d17285967"}, "col_0": "Laptop"}
+{"_id": {"$oid": "691878d793c73b4d17285968"}, "_raw": "<td>999</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878d793c73b4d17285969"}, "_raw": "</tr></table>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878d793c73b4d1728596a"}, "title": "Widget A - Special Edition", "price": "$9.99", "currency": "USD", "availability": "In Stock"}
+{"_id": {"$oid": "691878d793c73b4d1728596b"}, "title": "Widget A - 2025", "published": "2025-11-18", "authors": ["Editorial Team"], "tags": ["gadget", "featured"]}
+{"_id": {"$oid": "691878d793c73b4d1728596c"}, "value": "This is raw text paragraph with no structure."}
+{"_id": {"$oid": "691878f846f7bd56444e9e6c"}, "goal": "", "types": "", "parsing": "", "contract": "", "flow": "", "endpoints": "", "Optional": "", "storage": "", "key": "", "where": "", "": "", "Note": "", "handling": "", "A/B/C": "", "response": "", "json_fragments": "", "html_tables": "", "kv_pairs": "", "include": "", "mapping": "", "strategy": "", "must": "", "either": "", "expects": "", "test": "", "will": "", "file": "", "queries": "", "categories": "", "(multipart)": "", "Content-Type": "", "fields": "", "example": "", "\"status\"": "", "\"source_id\"": "", "\"file_id\"": "", "\"schema_id\"": "\"schema_v7\",", "\"parsed_fragments_summary\"": "", "{\"json_fragments\"": "2,", "\"html_tables\"": "1,", "\"kv_pairs\"": "12}", "(canonical)": "", "\"generated_at\"": "\"2025-11-15T08:00:00Z\",", "\"compatible_dbs\"": "[\"postgresql\",\"mongodb\"],", "\"fields\"": "[", "{\"name\"": "\"price\",\"path\":\"$.pricing.price\",\"type\":\"decimal\",\"nullable\":true,\"example\":9.99,\"confidenc", "A\",\"confidence\"": "0.98},", "e\"": "0.87}", "\"primary_key_candidates\"": "[\"id\",\"slug\"],", "\"migration_notes\"": "\"Added", "Appendix": "", "Source": "", "scraped_at": "", "2025-11-10T14": "22:00+05:30", "(key": "", "source": "", "https": "//example.com/product/widget-a", "scraper": "", "lang": "", "publisher": "", "contact": "", "locales": "", "PDFs": "", "\"id\"": "", "\"title\"": "", "\"slug\"": "", "\"pricing\"": "", "\"price_usd\"": "", "\"inventory\"": "", "\"currency_hint\"": "", "\"tags\"": "", "\"dimensions\"": "", "{\"w_mm\"": "", "\"h_mm\"": "", "\"d_mm\"": "", "\"release_date\"": "", "\"specs\"": "", "\"color\"": "", "\"weight\"": "", "\"notes\"": "", "title": "", "price": "", "currency": "", "availability": "", "tags": "", "\"@context\"": "", "\"http": "//schema.org/InStock\",", "\"@type\"": "", "\"name\"": "", "\"image\"": "", "\"https": "//example.com/product/widget-a\"", "\"description\"": "", "\"sku\"": "", "\"offers\"": "", "\"priceCurrency\"": "", "\"price\"": "", "\"availability\"": "", "\"url\"": "", "{id": "", "promo": "", "code": "", "SQL": "", "l0cation": "", "items": "", "price_usd": "", "legacy_price": "", "currency_hint": "", "views": "", "sold": "", "rating_avg": "", "is_featured": "", "is_limited": "", "2025-11-20": "", "\"currency\"": "", "\"metadata\"": "", "\"imported_from\"": "", "\"ingested_at\"": "", "\"2025-11-20T09": "10:00+05:30\"", "\"views\"": "", "flip": "", "\"ratings\"": "", "\"avg\"": "", "\"count\"": "", "published": "", "authors": ""}
+{"_id": {"$oid": "691878f846f7bd56444e9e6d"}, "_raw": "goal:\n \nverify\n \na\n \nsystem\n \nthat\n \ningests\n \n.txt/.pdf/.md\n \nfiles\n \ncontaining\n \nmixed\n \nunstructured\n \ncontent\n \n(JSON,\n \nHTML,\n \nfree\n \ntext,\n \ntables),\n \nextracts\n \nand\n \ncleans\n \nimportant\n \nfields,\n \ngenerates\n \na\n \ndatabase\n \nschema\n \n(SQL/NoSQL/object),\n \nevolves\n \nthe\n \nschema\n \non\n \neach\n \nupload\n \nwhile\n \nmaintaining\n \nbackward\n \ncompatibility,\n \nand\n \nexposes\n \nendpoints\n \nthat\n \nallow\n \nqueries\n \n(via\n \nLLM-translated\n \nqueries)\n \nto\n \nrun\n \nagainst\n \nthe\n \nstored\n \ndata.\n \n \nTest\n \nObjectives\n \n1.\n \nValidate\n \ningestion\n \nof\n \nfile\n \ntypes:\n \n.txt,\n \n.pdf,\n \n.md\n \n \n2.\n \nValidate\n \nrobust\n \nparsing:\n \nability\n \nto\n \ndetect\n \nand\n \nextract\n \nmixed\n \nformats\n \n(JSON,\n \nHTML,\n \nCSV,\n \nkey-value,\n \nraw\n \ntext)\n \nfrom\n \na\n \nsingle\n \nfile.\n \n \n3.\n \nValidate\n \ndata\n \ncleaning\n \nand\n \ncanonicalization\n \nfor\n \nextracted\n \nfields.\n \n \n4.\n \nValidate\n \nautomatic\n \nschema\n \ngeneration\n \nwith\n \nexplicit\n \nmetadata\n \ndescribing\n \ntarget\n \nDB\n \ncompatibility\n \n(e.g.,\n \nPostgreSQL,\n \nMo...", "_chunk_type": "yaml"}
+{"_id": {"$oid": "691878f846f7bd56444e9e6e"}, "_raw": "<id>\n \n-\n \nreturns\n \ncurrent\n \nschema\n \nmetadata\n \nand\n \ncompatibility.\n \n \n○\n \nGET\n \n/schema/history?source_id=<id>\n \n-\n \nreturns\n \npast\n \nschemas\n \nand\n \nchange\n \ndiffs.\n \n \n○\n \nGET\n \n/records?source_id=&query_id=\n \n-\n \nfetch\n \nresults\n \nfor\n \nexecuted\n \nqueries\n \nif\n \nasync.\n \n \n○\n \nOptional:\n \nPOST\n \n/migrate\n \nfor\n \nexplicit\n \nmigrations.\n \n \n●\n \nYou\n \ncan\n \nuse\n \nmultiple\n \ndatabases.\n \n \n \n●\n \nVersioning\n \n&\n \nstorage:\n \n \n○\n \nEach\n \nsource_id\n \nmust\n \nmap\n \nto\n \na\n \nstable\n \nnamespace.\n \nFiles\n \nmust\n \nproduce\n \ndeterministic\n \nschema\n \nupdates\n \nfor\n \nthe\n \nsame\n \ncontent.\n \n \n○\n \nSystem\n \nshould\n \nproduce\n \nchange\n \ndiff\n \n(add/remove/modify\n \nfields)\n \nwith\n \ntimestamped\n \nmigrations.\n \n \n \nTest\n \nData\n \nSets\n \nCreate\n \nmultiple\n \ntiers\n \nof\n \ninput\n \nfiles\n \nto\n \nexercise\n \nincreasing\n \ncomplexity.\n \nTier\n \nA\n \n—\n \nSimple\n \n1.\n \nPlain\n \n.txt\n \ncontaining\n \nkey:\n \nvalue\n \nlines,\n \nsmall\n \nJSON\n \nblob,\n \nand\n \na\n \nraw\n \nsentence\n \nparagraph.\n \n \n \n2.\n \n.md\n \nfile\n \nwith\n \nhea...", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e6f"}, "_raw": "{source_id,\n \nfile_id,\n \nschema_id,\n \nparsed_fragments_summary}", "_chunk_type": "json"}
+{"_id": {"$oid": "691878f846f7bd56444e9e70"}, "_raw": "{source_id,\n \nnl_query}", "_chunk_type": "json"}
+{"_id": {"$oid": "691878f846f7bd56444e9e71"}, "_raw": "{\n \n  \n\"status\":\n \n\"ok\",\n \n  \n\"source_id\":\n \n\"site_abc\",\n \n  \n\"file_id\":\n \n\"file_20251115_001\",\n \n  \n\"schema_id\":\n \n\"schema_v7\",\n \n  \n\"parsed_fragments_summary\":\n \n{\"json_fragments\":2,\n \n\"html_tables\":1,\n \n\"kv_pairs\":12}", "_chunk_type": "json"}
+{"_id": {"$oid": "691878f846f7bd56444e9e72"}, "_raw": "{\n \n  \n\"schema_id\":\"schema_v7\",\n \n  \n\"generated_at\":\"2025-11-15T08:00:00Z\",\n \n  \n\"compatible_dbs\":[\"postgresql\",\"mongodb\"],\n \n  \n\"fields\":[\n \n    \n{\"name\":\"title\",\"path\":\"$.title\",\"type\":\"string\",\"nullable\":false,\"example\":\"Widget\n \nA\",\"confidence\":0.98},\n \n    \n{\"name\":\"price\",\"path\":\"$.pricing.price\",\"type\":\"decimal\",\"nullable\":true,\"example\":9.99,\"confidenc\ne\":0.87}", "_chunk_type": "json"}
+{"_id": {"$oid": "691878f846f7bd56444e9e73"}, "_raw": "{\"name\":\"title\",\"path\":\"$.title\",\"type\":\"string\",\"nullable\":false,\"example\":\"Widget", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e74"}, "_raw": "{\"name\":\"price\",\"path\":\"$.pricing.price\",\"type\":\"decimal\",\"nullable\":true,\"example\":9.99,\"confidenc", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e75"}, "_raw": "\"9,99\".", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e76"}, "_raw": "{\n \n  \n\"id\":\n \n\"prod-1001\",\n \n  \n\"title\":\n \n\"Widget\n \nA\",\n \n  \n\"slug\":\n \n\"widget-a\",\n \n  \n\"pricing\":\n \n{\n \n    \n\"price_usd\":\n \n\"9.99\",\n \n    \n\"inventory\":\n \n120,\n \n    \n\"currency_hint\":\n \n\"USD\"\n \n  \n},\n \n  \n\"tags\":\n \n[\"gadget\",\"home\",\"widget\"],\n \n  \n\"dimensions\":\n \n{\"w_mm\":\n \n120,\n \n\"h_mm\":\n \n45,\n \n\"d_mm\":\n \n30},\n \n  \n\"release_date\":\n \n\"2025-11-01\"\n \n}", "_chunk_type": "json"}
+{"_id": {"$oid": "691878f846f7bd56444e9e77"}, "_raw": "{\n \n\"id\":\n \n\"prod-1001-b\",\n \n\"title\":\n \n\"Widget\n \nB\",\n \n\"specs\":\n \n{\n \n\"color\":\n \n\"red\",\n \n\"weight\":\n \n\"0.5kg\",\n \n}", "_chunk_type": "json"}
+{"_id": {"$oid": "691878f846f7bd56444e9e78"}, "_raw": "<table>\n \n    \n<thead><tr><th>author</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e79"}, "_raw": "<th>rating</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e7a"}, "_raw": "<th>comment</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e7b"}, "_raw": "<th>date</th\n>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e7c"}, "_raw": "</tr></thead>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e7d"}, "col_0": "Alice"}
+{"_id": {"$oid": "691878f846f7bd56444e9e7e"}, "_raw": "<td>5</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e7f"}, "_raw": "<td>Excellent\n \nproduct.</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e80"}, "_raw": "<td>2025-10-20</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e81"}, "col_0": "Bob"}
+{"_id": {"$oid": "691878f846f7bd56444e9e82"}, "_raw": "<td>4</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e83"}, "_raw": "<td>Good\n \nvalue\n \nfor\n \nmoney.</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e84"}, "_raw": "<td>20/10/2025</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e85"}, "col_0": "Charlie"}
+{"_id": {"$oid": "691878f846f7bd56444e9e86"}, "_raw": "<td>3</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e87"}, "_raw": "<td>Okay,\n \nbut\n \npackaging\n \nwas\n \nbad.</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e88"}, "_raw": "<td>Oct\n \n19,\n \n2025</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e89"}, "_raw": "</tr>\n \n    \n</tbody>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e8a"}, "_raw": "</table>\n \n</div>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e8b"}, "_raw": "author,rating,helpful_votes,date", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e8c"}, "_raw": "Dave,4,2,2025-10-18", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e8d"}, "_raw": "Eve,2,0,18-10-2025", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e8e"}, "_raw": "Mallory,5,10,2025/10/17", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e8f"}, "_raw": "<script\n \ntype=\"application/ld+json\">\n \n{\n \n  \n\"@context\":\n \n\"http://schema.org/\",\n \n  \n\"@type\":\n \n\"Product\",\n \n  \n\"name\":\n \n\"Widget\n \nA\",\n \n  \n\"image\":\n \n[\n \n    \n\"https://example.com/images/widget-a-1.jpg\",\n \n    \n\"https://example.com/images/widget-a-2.jpg\"\n \n  \n],\n \n  \n\"description\":\n \n\"A\n \nversatile\n \nwidget\n \nfor\n \nthe\n \nmodern\n \nhome.\",\n \n  \n\"sku\":\n \n\"WA-1001\",\n \n  \n\"offers\":\n \n{\n \n    \n\"@type\":\n \n\"Offer\",\n \n    \n\"priceCurrency\":\n \n\"USD\",\n \n    \n\"price\":\n \n\"9.99\",\n \n    \n\"availability\":\n \n\"http://schema.org/InStock\",\n \n    \n\"url\":\n \n\"https://example.com/product/widget-a\"\n \n  \n}\n \n}\n \n</script>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e90"}, "_raw": "{\n \n  \n\"@context\":\n \n\"http://schema.org/\",\n \n  \n\"@type\":\n \n\"Product\",\n \n  \n\"name\":\n \n\"Widget\n \nA\",\n \n  \n\"image\":\n \n[\n \n    \n\"https://example.com/images/widget-a-1.jpg\",\n \n    \n\"https://example.com/images/widget-a-2.jpg\"\n \n  \n],\n \n  \n\"description\":\n \n\"A\n \nversatile\n \nwidget\n \nfor\n \nthe\n \nmodern\n \nhome.\",\n \n  \n\"sku\":\n \n\"WA-1001\",\n \n  \n\"offers\":\n \n{\n \n    \n\"@type\":\n \n\"Offer\",\n \n    \n\"priceCurrency\":\n \n\"USD\",\n \n    \n\"price\":\n \n\"9.99\",\n \n    \n\"availability\":\n \n\"http://schema.org/InStock\",\n \n    \n\"url\":\n \n\"https://example.com/product/widget-a\"\n \n  \n}", "_chunk_type": "json"}
+{"_id": {"$oid": "691878f846f7bd56444e9e91"}, "_raw": "ProductID,Name,Color,Stock", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e92"}, "_raw": "prod-1001,Widget", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e93"}, "_raw": "A,black,120", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e94"}, "_raw": "prod-1001,Widget", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e95"}, "_raw": "A,white,80", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e96"}, "_raw": "prod-1002,Widget", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e97"}, "_raw": "B,red,50", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e98"}, "_raw": "<!--\n \nSome\n \nscraped\n \npage\n \ncontains\n \ninline\n \nscripts\n \nand\n \ncomments\n \n-->\n \n<script>var\n \nconfig\n \n=\n \n{id:\n \n'prod-1001',\n \nprice:\n \n'9.99',\n \npromo:\n \ntrue};</script>", "_chunk_type": "html"}
+{"_id": {"$oid": "691878f846f7bd56444e9e99"}, "_raw": "{id:\n \n'prod-1001',\n \nprice:\n \n'9.99',\n \npromo:\n \ntrue};</script>\n \nRandom\n \nfooter\n \ntext\n \n-\n \nContact\n \nus\n \nat\n \n(555)\n \n123-4567.\n \nPromo\n \ncode:\n \nSAVE10.\n \nNote:\n \nDO\n \nNOT\n \nRUN\n \nSQL:\n \n\\\"DROP\n \nTABLE\n \nusers;\\\"\n \nincluded\n \nas\n \nsample\n \ntext\n \nfrom\n \nscraped\n \ncode\n \nblocks.\n \n \n---\n \nOCR-LIKE\n \nPAGE\n \nFOOTER\n \nPage\n \n3\n \nof\n \n12\n \nDocument\n \ntitle:\n \nProduct\n \ncatalog\n \n-\n \nExample\n \nCorp\n \nl0cation:\n \nWarehouse\n \n9\n \nTotal\n \nitems:\n \none\n \nhundred\n \nand\n \ntwenty\n \n(120)\n \n \n---\n \nSQL-LIKE\n \nSNIPPET\n \n(should\n \nbe\n \nextracted\n \nas\n \ncode,\n \nnot\n \nexecuted)\n \n--\n \nExample\n \nof\n \nraw\n \nSQL\n \nshown\n \non\n \na\n \npage,\n \nshould\n \nnot\n \nbe\n \nexecuted\n \nSELECT\n \nid,\n \ntitle,\n \nprice\n \nFROM\n \nproducts\n \nWHERE\n \nprice\n \n<\n \n20;\n \n \n---\n \nREPEATED\n \nFIELDS\n \n(conflicting\n \nvalues\n \nacross\n \npage)\n \nprice_usd:\n \n9.99\n \nprice:\n \n\"$9.99\"\n \nlegacy_price:\n \n\"9.9900\"\n \ncurrency_hint:\n \nUSD\n \n \n---\n \nAMBIGUOUS\n \nTYPES\n \n/\n \nMISSING\n \nDATA\n \nviews:\n \n\"1024\"\n \nviews:\n \n\"N/A\"\n \nsold:\n \n\"12\"\n \nra...", "_chunk_type": "json"}
+{"_id": {"$oid": "691878f846f7bd56444e9e9a"}, "_raw": "ProductID,Name,Color,Stock,warehouse", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e9b"}, "_raw": "prod-1001,Widget", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e9c"}, "_raw": "A,black,120,W-9", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e9d"}, "_raw": "prod-1001,Widget", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e9e"}, "_raw": "A,white,80,W-9", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9e9f"}, "_raw": "prod-1003,Widget", "_chunk_type": "csv"}
+{"_id": {"$oid": "691878f846f7bd56444e9ea0"}, "_raw": "C,blue,30,W-12", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a58a86407e2ff9fe01"}, "Files generated in this folder": "/mnt/data/etl_test_files", "## How to use these files to test your running service (assumes FastAPI running at 127.0.0.1": "8000)", "Basic curl upload example (Tier A file)": "", "curl -F \"file=@/mnt/data/etl_test_files/tierA_simple_kv_json.txt\" -F \"source_id=test_source\" http": "//127.0.0.1:8000/upload", "For each file you should expect HTTP 200 and a JSON response similar to": "", "{\"status\"": "\"ok\",\"source_id\":\"test_source\"}", "After upload, check schema and records endpoints": "", "curl \"http": "//127.0.0.1:8000/records?source_id=test_source&query_id=1\"", "Run it like": "", "Note": "test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above."}
+{"_id": {"$oid": "691880a58a86407e2ff9fe02"}, "status": "ok", "source_id": "test_source"}
+{"_id": {"$oid": "691880a58a86407e2ff9fe03"}, "_raw": "{\"status\":\"ok\",\"source_id\":\"test_source\"}", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a58a86407e2ff9fe04"}, "_raw": "After upload, check schema and records endpoints:", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a58a86407e2ff9fe05"}, "Note": "test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above."}
+{"_id": {"$oid": "691880a58a86407e2ff9fe06"}, "_raw": "Note: test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above.", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a68a86407e2ff9fe0d"}, "{ \"id\"": "\"prod-md-1\", \"title\": \"MD Widget\", \"price\": 12.5 }", "And an HTML snippet inside a fenced code block": "", "<div><p>Price": "$12.50</p></div>"}
+{"_id": {"$oid": "691880a68a86407e2ff9fe0e"}, "id": "prod-md-1", "title": "MD Widget", "price": 12.5}
+{"_id": {"$oid": "691880a68a86407e2ff9fe0f"}, "_raw": "{ \"id\": \"prod-md-1\", \"title\": \"MD Widget\", \"price\": 12.5 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a68a86407e2ff9fe10"}, "_raw": "<div><p>Price: $12.50</p>", "_chunk_type": "html"}
+{"_id": {"$oid": "691880a68a86407e2ff9fe16"}, "source": "https://example.com/product/widget-a", "scraper": "simple-scraper-v1", "\"id\"": "\"prod-1001\",", "\"title\"": "\"Widget A\",", "\"slug\"": "\"widget-a\",", "\"pricing\"": "{\"price_usd\": \"9.99\", \"inventory\": 120},", "\"release_date\"": "\"2025-11-01\""}
+{"_id": {"$oid": "691880a68a86407e2ff9fe17"}, "_raw": "source: https://example.com/product/widget-a\nscraper: simple-scraper-v1\n\nWidget A is a compact device for everyday use. It comes in multiple colors.\nThe price sometimes appears as \"$9.99\".\n\n--- INLINE JSON\n{\n  \"id\": \"prod-1001\",\n  \"title\": \"Widget A\",\n  \"slug\": \"widget-a\",\n  \"pricing\": {\"price_usd\": \"9.99\", \"inventory\": 120},\n  \"release_date\": \"2025-11-01\"\n}", "_chunk_type": "yaml"}
+{"_id": {"$oid": "691880a68a86407e2ff9fe18"}, "id": "prod-1001", "title": "Widget A", "slug": "widget-a", "pricing": {"price_usd": "9.99", "inventory": 120}, "release_date": "2025-11-01"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe1e"}, "title": "\"Widget A - 2025\"", "published": "2025-11-18", "authors": "", "tags": ""}
+{"_id": {"$oid": "691880a78a86407e2ff9fe1f"}, "title": "Widget A - 2025", "published": "2025-11-18", "authors": ["Editorial Team"], "tags": ["gadget", "featured"]}
+{"_id": {"$oid": "691880a78a86407e2ff9fe20"}, "value": "This markdown contains frontmatter YAML and inline html <span>tags</span>."}
+{"_id": {"$oid": "691880a78a86407e2ff9fe21"}, "_raw": "<span>tags</span>", "_chunk_type": "html"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe31"}, "_raw": "{ \"id\": \"prod-b-1\", \"title\": \"Broken JSON\", \"specs\": { \"color\": \"red\", }  \"notes\": \"missing comma\"", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe32"}, "{ \"id\"": "\"prod-b-1\", \"title\": \"Broken JSON\", \"specs\": { \"color\": \"red\", }  \"notes\": \"missing comma\""}
+{"_id": {"$oid": "691880a78a86407e2ff9fe33"}, "_raw": "<table>\n<thead><tr><th>author</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe34"}, "_raw": "<th>rating</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe35"}, "_raw": "</tr></thead>", "_chunk_type": "html"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe36"}, "col_0": "Alice"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe37"}, "_raw": "<td>5</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe38"}, "col_0": "Bob"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe39"}, "_raw": "<td>4</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe3a"}, "_raw": "</tr>\n</tbody>", "_chunk_type": "html"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe3b"}, "_raw": "author,rating,date", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe3c"}, "_raw": "Dave,4,2025-10-18", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a78a86407e2ff9fe3d"}, "_raw": "Eve,2,18-10-2025", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a88a86407e2ff9fe46"}, "l0cation": "Warehouse 9", "Prices shown": "9.99 USD, $9.99, 9,99", "Dates": "12/13/2025 and 13/12/2025 (ambiguous)", "OCR errors": "l0cation -> location, O vs 0 confusion"}
+{"_id": {"$oid": "691880a88a86407e2ff9fe47"}, "_raw": "l0cation: Warehouse 9\nWidget A — a versatile widget.\nPrices shown: 9.99 USD, $9.99, 9,99\nDates: 12/13/2025 and 13/12/2025 (ambiguous)\nOCR errors: l0cation -> location, O vs 0 confusion\n--- TABLE ---\nProductID,Name,Color,Stock\nprod-1001,Widget A,black,120", "_chunk_type": "yaml"}
+{"_id": {"$oid": "691880a88a86407e2ff9fe48"}, "_raw": "Prices shown: 9.99 USD, $9.99, 9,99", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a88a86407e2ff9fe49"}, "_raw": "OCR errors: l0cation -> location, O vs 0 confusion", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a88a86407e2ff9fe4a"}, "_raw": "ProductID,Name,Color,Stock", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a88a86407e2ff9fe4b"}, "_raw": "prod-1001,Widget A,black,120", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a98a86407e2ff9fe51"}, "id": "prod-evo-1", "title": "Evo Widget", "price_usd": "9.99", "views": 1024}
+{"_id": {"$oid": "691880a98a86407e2ff9fe52"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price_usd\": \"9.99\", \"views\": 1024 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880a98a86407e2ff9fe53"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price_usd\": \"9.99\", \"views\": 1024 }"}
+{"_id": {"$oid": "691880aa8a86407e2ff9fe59"}, "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "currency": "USD", "views": "N/A"}
+{"_id": {"$oid": "691880aa8a86407e2ff9fe5a"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"currency\": \"USD\", \"views\": \"N/A\" }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880aa8a86407e2ff9fe5b"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"currency\": \"USD\", \"views\": \"N/A\" }"}
+{"_id": {"$oid": "691880aa8a86407e2ff9fe61"}, "id": "prod-evo-1", "title": "Evo Widget", "price": "9.99", "legacy_price": "9.9900", "views": "N/A"}
+{"_id": {"$oid": "691880aa8a86407e2ff9fe62"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": \"9.99\", \"legacy_price\": \"9.9900\", \"views\": \"N/A\" }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880aa8a86407e2ff9fe63"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": \"9.99\", \"legacy_price\": \"9.9900\", \"views\": \"N/A\" }"}
+{"_id": {"$oid": "691880ab8a86407e2ff9fe69"}, "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "metadata": {"imported_from": "scraper-v2"}}
+{"_id": {"$oid": "691880ab8a86407e2ff9fe6a"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"metadata\": { \"imported_from\": \"scraper-v2\" } }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880ab8a86407e2ff9fe6b"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"metadata\": { \"imported_from\": \"scraper-v2\" } }"}
+{"_id": {"$oid": "691880ab8a86407e2ff9fe71"}, "id": "prod-evo-1", "title": "Evo Widget v5", "price": 9.99, "dimensions": {"w_mm": 120, "h_mm": 45}}
+{"_id": {"$oid": "691880ab8a86407e2ff9fe72"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v5\", \"price\": 9.99, \"dimensions\": {\"w_mm\":120,\"h_mm\":45} }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880ab8a86407e2ff9fe73"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v5\", \"price\": 9.99, \"dimensions\": {\"w_mm\":120,\"h_mm\":45} }"}
+{"_id": {"$oid": "691880ac8a86407e2ff9fe79"}, "id": "prod-evo-1", "title": "Evo Widget v6", "price": null, "views": 1500}
+{"_id": {"$oid": "691880ac8a86407e2ff9fe7a"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v6\", \"price\": null, \"views\": 1500 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880ac8a86407e2ff9fe7b"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v6\", \"price\": null, \"views\": 1500 }"}
+{"_id": {"$oid": "691880ac8a86407e2ff9fe81"}, "id": "prod-evo-1", "title": "Evo Widget v7", "price": 10.5, "currency": "USD", "tags": ["evo", "sale"]}
+{"_id": {"$oid": "691880ac8a86407e2ff9fe82"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v7\", \"price\": 10.5, \"currency\": \"USD\", \"tags\": [\"evo\",\"sale\"] }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691880ac8a86407e2ff9fe83"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v7\", \"price\": 10.5, \"currency\": \"USD\", \"tags\": [\"evo\",\"sale\"] }"}
+{"_id": {"$oid": "691881c21727fb3d24fc78f4"}, "Files generated in this folder": "/mnt/data/etl_test_files", "## How to use these files to test your running service (assumes FastAPI running at 127.0.0.1": "8000)", "Basic curl upload example (Tier A file)": "", "curl -F \"file=@/mnt/data/etl_test_files/tierA_simple_kv_json.txt\" -F \"source_id=test_source\" http": "//127.0.0.1:8000/upload", "For each file you should expect HTTP 200 and a JSON response similar to": "", "{\"status\"": "\"ok\",\"source_id\":\"test_source\"}", "After upload, check schema and records endpoints": "", "curl \"http": "//127.0.0.1:8000/records?source_id=test_source&query_id=1\"", "Run it like": "", "Note": "test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above."}
+{"_id": {"$oid": "691881c21727fb3d24fc78f5"}, "status": "ok", "source_id": "test_source"}
+{"_id": {"$oid": "691881c21727fb3d24fc78f6"}, "_raw": "{\"status\":\"ok\",\"source_id\":\"test_source\"}", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c21727fb3d24fc78f7"}, "_raw": "After upload, check schema and records endpoints:", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c21727fb3d24fc78f8"}, "Note": "test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above."}
+{"_id": {"$oid": "691881c21727fb3d24fc78f9"}, "_raw": "Note: test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above.", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c31727fb3d24fc7900"}, "{ \"id\"": "\"prod-md-1\", \"title\": \"MD Widget\", \"price\": 12.5 }", "And an HTML snippet inside a fenced code block": "", "<div><p>Price": "$12.50</p></div>"}
+{"_id": {"$oid": "691881c31727fb3d24fc7901"}, "id": "prod-md-1", "title": "MD Widget", "price": 12.5}
+{"_id": {"$oid": "691881c31727fb3d24fc7902"}, "_raw": "{ \"id\": \"prod-md-1\", \"title\": \"MD Widget\", \"price\": 12.5 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c31727fb3d24fc7903"}, "_raw": "<div><p>Price: $12.50</p>", "_chunk_type": "html"}
+{"_id": {"$oid": "691881c31727fb3d24fc7909"}, "source": "https://example.com/product/widget-a", "scraper": "simple-scraper-v1", "\"id\"": "\"prod-1001\",", "\"title\"": "\"Widget A\",", "\"slug\"": "\"widget-a\",", "\"pricing\"": "{\"price_usd\": \"9.99\", \"inventory\": 120},", "\"release_date\"": "\"2025-11-01\""}
+{"_id": {"$oid": "691881c31727fb3d24fc790a"}, "_raw": "source: https://example.com/product/widget-a\nscraper: simple-scraper-v1\n\nWidget A is a compact device for everyday use. It comes in multiple colors.\nThe price sometimes appears as \"$9.99\".\n\n--- INLINE JSON\n{\n  \"id\": \"prod-1001\",\n  \"title\": \"Widget A\",\n  \"slug\": \"widget-a\",\n  \"pricing\": {\"price_usd\": \"9.99\", \"inventory\": 120},\n  \"release_date\": \"2025-11-01\"\n}", "_chunk_type": "yaml"}
+{"_id": {"$oid": "691881c31727fb3d24fc790b"}, "id": "prod-1001", "title": "Widget A", "slug": "widget-a", "pricing": {"price_usd": "9.99", "inventory": 120}, "release_date": "2025-11-01"}
+{"_id": {"$oid": "691881c41727fb3d24fc7911"}, "title": "\"Widget A - 2025\"", "published": "2025-11-18", "authors": "", "tags": ""}
+{"_id": {"$oid": "691881c41727fb3d24fc7912"}, "title": "Widget A - 2025", "published": "2025-11-18", "authors": ["Editorial Team"], "tags": ["gadget", "featured"]}
+{"_id": {"$oid": "691881c41727fb3d24fc7913"}, "value": "This markdown contains frontmatter YAML and inline html <span>tags</span>."}
+{"_id": {"$oid": "691881c41727fb3d24fc7914"}, "_raw": "<span>tags</span>", "_chunk_type": "html"}
+{"_id": {"$oid": "691881c41727fb3d24fc7924"}, "_raw": "{ \"id\": \"prod-b-1\", \"title\": \"Broken JSON\", \"specs\": { \"color\": \"red\", }  \"notes\": \"missing comma\"", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c41727fb3d24fc7925"}, "{ \"id\"": "\"prod-b-1\", \"title\": \"Broken JSON\", \"specs\": { \"color\": \"red\", }  \"notes\": \"missing comma\""}
+{"_id": {"$oid": "691881c41727fb3d24fc7926"}, "_raw": "<table>\n<thead><tr><th>author</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691881c41727fb3d24fc7927"}, "_raw": "<th>rating</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "691881c41727fb3d24fc7928"}, "_raw": "</tr></thead>", "_chunk_type": "html"}
+{"_id": {"$oid": "691881c41727fb3d24fc7929"}, "col_0": "Alice"}
+{"_id": {"$oid": "691881c41727fb3d24fc792a"}, "_raw": "<td>5</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691881c41727fb3d24fc792b"}, "col_0": "Bob"}
+{"_id": {"$oid": "691881c41727fb3d24fc792c"}, "_raw": "<td>4</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "691881c41727fb3d24fc792d"}, "_raw": "</tr>\n</tbody>", "_chunk_type": "html"}
+{"_id": {"$oid": "691881c41727fb3d24fc792e"}, "_raw": "author,rating,date", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c41727fb3d24fc792f"}, "_raw": "Dave,4,2025-10-18", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c41727fb3d24fc7930"}, "_raw": "Eve,2,18-10-2025", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c51727fb3d24fc7939"}, "l0cation": "Warehouse 9", "Prices shown": "9.99 USD, $9.99, 9,99", "Dates": "12/13/2025 and 13/12/2025 (ambiguous)", "OCR errors": "l0cation -> location, O vs 0 confusion"}
+{"_id": {"$oid": "691881c51727fb3d24fc793a"}, "_raw": "l0cation: Warehouse 9\nWidget A — a versatile widget.\nPrices shown: 9.99 USD, $9.99, 9,99\nDates: 12/13/2025 and 13/12/2025 (ambiguous)\nOCR errors: l0cation -> location, O vs 0 confusion\n--- TABLE ---\nProductID,Name,Color,Stock\nprod-1001,Widget A,black,120", "_chunk_type": "yaml"}
+{"_id": {"$oid": "691881c51727fb3d24fc793b"}, "_raw": "Prices shown: 9.99 USD, $9.99, 9,99", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c51727fb3d24fc793c"}, "_raw": "OCR errors: l0cation -> location, O vs 0 confusion", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c51727fb3d24fc793d"}, "_raw": "ProductID,Name,Color,Stock", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c51727fb3d24fc793e"}, "_raw": "prod-1001,Widget A,black,120", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c61727fb3d24fc7944"}, "id": "prod-evo-1", "title": "Evo Widget", "price_usd": "9.99", "views": 1024}
+{"_id": {"$oid": "691881c61727fb3d24fc7945"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price_usd\": \"9.99\", \"views\": 1024 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c61727fb3d24fc7946"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price_usd\": \"9.99\", \"views\": 1024 }"}
+{"_id": {"$oid": "691881c71727fb3d24fc794c"}, "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "currency": "USD", "views": "N/A"}
+{"_id": {"$oid": "691881c71727fb3d24fc794d"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"currency\": \"USD\", \"views\": \"N/A\" }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c71727fb3d24fc794e"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"currency\": \"USD\", \"views\": \"N/A\" }"}
+{"_id": {"$oid": "691881c71727fb3d24fc7954"}, "id": "prod-evo-1", "title": "Evo Widget", "price": "9.99", "legacy_price": "9.9900", "views": "N/A"}
+{"_id": {"$oid": "691881c71727fb3d24fc7955"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": \"9.99\", \"legacy_price\": \"9.9900\", \"views\": \"N/A\" }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c71727fb3d24fc7956"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": \"9.99\", \"legacy_price\": \"9.9900\", \"views\": \"N/A\" }"}
+{"_id": {"$oid": "691881c81727fb3d24fc795c"}, "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "metadata": {"imported_from": "scraper-v2"}}
+{"_id": {"$oid": "691881c81727fb3d24fc795d"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"metadata\": { \"imported_from\": \"scraper-v2\" } }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c81727fb3d24fc795e"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"metadata\": { \"imported_from\": \"scraper-v2\" } }"}
+{"_id": {"$oid": "691881c81727fb3d24fc7964"}, "id": "prod-evo-1", "title": "Evo Widget v5", "price": 9.99, "dimensions": {"w_mm": 120, "h_mm": 45}}
+{"_id": {"$oid": "691881c81727fb3d24fc7965"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v5\", \"price\": 9.99, \"dimensions\": {\"w_mm\":120,\"h_mm\":45} }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c81727fb3d24fc7966"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v5\", \"price\": 9.99, \"dimensions\": {\"w_mm\":120,\"h_mm\":45} }"}
+{"_id": {"$oid": "691881c91727fb3d24fc796c"}, "id": "prod-evo-1", "title": "Evo Widget v6", "price": null, "views": 1500}
+{"_id": {"$oid": "691881c91727fb3d24fc796d"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v6\", \"price\": null, \"views\": 1500 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881c91727fb3d24fc796e"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v6\", \"price\": null, \"views\": 1500 }"}
+{"_id": {"$oid": "691881ca1727fb3d24fc7974"}, "id": "prod-evo-1", "title": "Evo Widget v7", "price": 10.5, "currency": "USD", "tags": ["evo", "sale"]}
+{"_id": {"$oid": "691881ca1727fb3d24fc7975"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v7\", \"price\": 10.5, \"currency\": \"USD\", \"tags\": [\"evo\",\"sale\"] }", "_chunk_type": "csv"}
+{"_id": {"$oid": "691881ca1727fb3d24fc7976"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v7\", \"price\": 10.5, \"currency\": \"USD\", \"tags\": [\"evo\",\"sale\"] }"}
+{"_id": {"$oid": "69188261df2fa7bb91808d7a"}, "Files generated in this folder": "/mnt/data/etl_test_files", "## How to use these files to test your running service (assumes FastAPI running at 127.0.0.1": "8000)", "Basic curl upload example (Tier A file)": "", "curl -F \"file=@/mnt/data/etl_test_files/tierA_simple_kv_json.txt\" -F \"source_id=test_source\" http": "//127.0.0.1:8000/upload", "For each file you should expect HTTP 200 and a JSON response similar to": "", "{\"status\"": "\"ok\",\"source_id\":\"test_source\"}", "After upload, check schema and records endpoints": "", "curl \"http": "//127.0.0.1:8000/records?source_id=test_source&query_id=1\"", "Run it like": "", "Note": "test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above."}
+{"_id": {"$oid": "69188261df2fa7bb91808d7b"}, "status": "ok", "source_id": "test_source"}
+{"_id": {"$oid": "69188261df2fa7bb91808d7c"}, "_raw": "{\"status\":\"ok\",\"source_id\":\"test_source\"}", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188261df2fa7bb91808d7d"}, "_raw": "After upload, check schema and records endpoints:", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188261df2fa7bb91808d7e"}, "Note": "test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above."}
+{"_id": {"$oid": "69188261df2fa7bb91808d7f"}, "_raw": "Note: test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above.", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188261df2fa7bb91808d86"}, "{ \"id\"": "\"prod-md-1\", \"title\": \"MD Widget\", \"price\": 12.5 }", "And an HTML snippet inside a fenced code block": "", "<div><p>Price": "$12.50</p></div>"}
+{"_id": {"$oid": "69188261df2fa7bb91808d87"}, "id": "prod-md-1", "title": "MD Widget", "price": 12.5}
+{"_id": {"$oid": "69188261df2fa7bb91808d88"}, "_raw": "{ \"id\": \"prod-md-1\", \"title\": \"MD Widget\", \"price\": 12.5 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188261df2fa7bb91808d89"}, "_raw": "<div><p>Price: $12.50</p>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188262df2fa7bb91808d8f"}, "source": "https://example.com/product/widget-a", "scraper": "simple-scraper-v1", "\"id\"": "\"prod-1001\",", "\"title\"": "\"Widget A\",", "\"slug\"": "\"widget-a\",", "\"pricing\"": "{\"price_usd\": \"9.99\", \"inventory\": 120},", "\"release_date\"": "\"2025-11-01\""}
+{"_id": {"$oid": "69188262df2fa7bb91808d90"}, "_raw": "source: https://example.com/product/widget-a\nscraper: simple-scraper-v1\n\nWidget A is a compact device for everyday use. It comes in multiple colors.\nThe price sometimes appears as \"$9.99\".\n\n--- INLINE JSON\n{\n  \"id\": \"prod-1001\",\n  \"title\": \"Widget A\",\n  \"slug\": \"widget-a\",\n  \"pricing\": {\"price_usd\": \"9.99\", \"inventory\": 120},\n  \"release_date\": \"2025-11-01\"\n}", "_chunk_type": "yaml"}
+{"_id": {"$oid": "69188262df2fa7bb91808d91"}, "id": "prod-1001", "title": "Widget A", "slug": "widget-a", "pricing": {"price_usd": "9.99", "inventory": 120}, "release_date": "2025-11-01"}
+{"_id": {"$oid": "69188262df2fa7bb91808d97"}, "title": "\"Widget A - 2025\"", "published": "2025-11-18", "authors": "", "tags": ""}
+{"_id": {"$oid": "69188262df2fa7bb91808d98"}, "title": "Widget A - 2025", "published": "2025-11-18", "authors": ["Editorial Team"], "tags": ["gadget", "featured"]}
+{"_id": {"$oid": "69188262df2fa7bb91808d99"}, "value": "This markdown contains frontmatter YAML and inline html <span>tags</span>."}
+{"_id": {"$oid": "69188262df2fa7bb91808d9a"}, "_raw": "<span>tags</span>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188263df2fa7bb91808daa"}, "_raw": "{ \"id\": \"prod-b-1\", \"title\": \"Broken JSON\", \"specs\": { \"color\": \"red\", }  \"notes\": \"missing comma\"", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188263df2fa7bb91808dab"}, "{ \"id\"": "\"prod-b-1\", \"title\": \"Broken JSON\", \"specs\": { \"color\": \"red\", }  \"notes\": \"missing comma\""}
+{"_id": {"$oid": "69188263df2fa7bb91808dac"}, "_raw": "<table>\n<thead><tr><th>author</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188263df2fa7bb91808dad"}, "_raw": "<th>rating</th>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188263df2fa7bb91808dae"}, "_raw": "</tr></thead>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188263df2fa7bb91808daf"}, "col_0": "Alice"}
+{"_id": {"$oid": "69188263df2fa7bb91808db0"}, "_raw": "<td>5</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188263df2fa7bb91808db1"}, "col_0": "Bob"}
+{"_id": {"$oid": "69188263df2fa7bb91808db2"}, "_raw": "<td>4</td>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188263df2fa7bb91808db3"}, "_raw": "</tr>\n</tbody>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188263df2fa7bb91808db4"}, "_raw": "author,rating,date", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188263df2fa7bb91808db5"}, "_raw": "Dave,4,2025-10-18", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188263df2fa7bb91808db6"}, "_raw": "Eve,2,18-10-2025", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188263df2fa7bb91808dbf"}, "l0cation": "Warehouse 9", "Prices shown": "9.99 USD, $9.99, 9,99", "Dates": "12/13/2025 and 13/12/2025 (ambiguous)", "OCR errors": "l0cation -> location, O vs 0 confusion"}
+{"_id": {"$oid": "69188263df2fa7bb91808dc0"}, "_raw": "l0cation: Warehouse 9\nWidget A — a versatile widget.\nPrices shown: 9.99 USD, $9.99, 9,99\nDates: 12/13/2025 and 13/12/2025 (ambiguous)\nOCR errors: l0cation -> location, O vs 0 confusion\n--- TABLE ---\nProductID,Name,Color,Stock\nprod-1001,Widget A,black,120", "_chunk_type": "yaml"}
+{"_id": {"$oid": "69188263df2fa7bb91808dc1"}, "_raw": "Prices shown: 9.99 USD, $9.99, 9,99", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188263df2fa7bb91808dc2"}, "_raw": "OCR errors: l0cation -> location, O vs 0 confusion", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188263df2fa7bb91808dc3"}, "_raw": "ProductID,Name,Color,Stock", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188263df2fa7bb91808dc4"}, "_raw": "prod-1001,Widget A,black,120", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188264df2fa7bb91808dca"}, "id": "prod-evo-1", "title": "Evo Widget", "price_usd": "9.99", "views": 1024}
+{"_id": {"$oid": "69188264df2fa7bb91808dcb"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price_usd\": \"9.99\", \"views\": 1024 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188264df2fa7bb91808dcc"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price_usd\": \"9.99\", \"views\": 1024 }"}
+{"_id": {"$oid": "69188265df2fa7bb91808dd2"}, "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "currency": "USD", "views": "N/A"}
+{"_id": {"$oid": "69188265df2fa7bb91808dd3"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"currency\": \"USD\", \"views\": \"N/A\" }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188265df2fa7bb91808dd4"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"currency\": \"USD\", \"views\": \"N/A\" }"}
+{"_id": {"$oid": "69188266df2fa7bb91808dda"}, "id": "prod-evo-1", "title": "Evo Widget", "price": "9.99", "legacy_price": "9.9900", "views": "N/A"}
+{"_id": {"$oid": "69188266df2fa7bb91808ddb"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": \"9.99\", \"legacy_price\": \"9.9900\", \"views\": \"N/A\" }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188266df2fa7bb91808ddc"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": \"9.99\", \"legacy_price\": \"9.9900\", \"views\": \"N/A\" }"}
+{"_id": {"$oid": "69188266df2fa7bb91808de2"}, "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "metadata": {"imported_from": "scraper-v2"}}
+{"_id": {"$oid": "69188266df2fa7bb91808de3"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"metadata\": { \"imported_from\": \"scraper-v2\" } }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188266df2fa7bb91808de4"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"metadata\": { \"imported_from\": \"scraper-v2\" } }"}
+{"_id": {"$oid": "69188267df2fa7bb91808dea"}, "id": "prod-evo-1", "title": "Evo Widget v5", "price": 9.99, "dimensions": {"w_mm": 120, "h_mm": 45}}
+{"_id": {"$oid": "69188267df2fa7bb91808deb"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v5\", \"price\": 9.99, \"dimensions\": {\"w_mm\":120,\"h_mm\":45} }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188267df2fa7bb91808dec"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v5\", \"price\": 9.99, \"dimensions\": {\"w_mm\":120,\"h_mm\":45} }"}
+{"_id": {"$oid": "69188267df2fa7bb91808df2"}, "id": "prod-evo-1", "title": "Evo Widget v6", "price": null, "views": 1500}
+{"_id": {"$oid": "69188267df2fa7bb91808df3"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v6\", \"price\": null, \"views\": 1500 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188267df2fa7bb91808df4"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v6\", \"price\": null, \"views\": 1500 }"}
+{"_id": {"$oid": "69188268df2fa7bb91808dfa"}, "id": "prod-evo-1", "title": "Evo Widget v7", "price": 10.5, "currency": "USD", "tags": ["evo", "sale"]}
+{"_id": {"$oid": "69188268df2fa7bb91808dfb"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v7\", \"price\": 10.5, \"currency\": \"USD\", \"tags\": [\"evo\",\"sale\"] }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188268df2fa7bb91808dfc"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v7\", \"price\": 10.5, \"currency\": \"USD\", \"tags\": [\"evo\",\"sale\"] }"}
+{"_id": {"$oid": "69188a91ff6409490ebfb216"}, "Files generated in this folder": "/mnt/data/etl_test_files", "## How to use these files to test your running service (assumes FastAPI running at 127.0.0.1": "8000)", "Basic curl upload example (Tier A file)": "", "curl -F \"file=@/mnt/data/etl_test_files/tierA_simple_kv_json.txt\" -F \"source_id=test_source\" http": "//127.0.0.1:8000/upload", "For each file you should expect HTTP 200 and a JSON response similar to": "", "{\"status\"": "\"ok\",\"source_id\":\"test_source\"}", "After upload, check schema and records endpoints": "", "curl \"http": "//127.0.0.1:8000/records?source_id=test_source&query_id=1\"", "Run it like": "", "Note": "test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above."}
+{"_id": {"$oid": "69188a91ff6409490ebfb217"}, "status": "ok", "source_id": "test_source"}
+{"_id": {"$oid": "69188a91ff6409490ebfb218"}, "_raw": "{\"status\":\"ok\",\"source_id\":\"test_source\"}", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a91ff6409490ebfb219"}, "_raw": "After upload, check schema and records endpoints:", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a91ff6409490ebfb21a"}, "Note": "test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above."}
+{"_id": {"$oid": "69188a91ff6409490ebfb21b"}, "_raw": "Note: test_harness uses `requests`. If it's not installed, either `pip install requests` or run the curl commands above.", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a92ff6409490ebfb222"}, "{ \"id\"": "\"prod-md-1\", \"title\": \"MD Widget\", \"price\": 12.5 }", "And an HTML snippet inside a fenced code block": "", "<div><p>Price": "$12.50</p></div>"}
+{"_id": {"$oid": "69188a92ff6409490ebfb223"}, "id": "prod-md-1", "title": "MD Widget", "price": 12.5}
+{"_id": {"$oid": "69188a92ff6409490ebfb224"}, "_raw": "{ \"id\": \"prod-md-1\", \"title\": \"MD Widget\", \"price\": 12.5 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a92ff6409490ebfb225"}, "_raw": "<div><p>Price: $12.50</p>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188a92ff6409490ebfb22b"}, "source": "https://example.com/product/widget-a", "scraper": "simple-scraper-v1", "\"id\"": "\"prod-1001\",", "\"title\"": "\"Widget A\",", "\"slug\"": "\"widget-a\",", "\"pricing\"": "{\"price_usd\": \"9.99\", \"inventory\": 120},", "\"release_date\"": "\"2025-11-01\""}
+{"_id": {"$oid": "69188a92ff6409490ebfb22c"}, "_raw": "source: https://example.com/product/widget-a\nscraper: simple-scraper-v1\n\nWidget A is a compact device for everyday use. It comes in multiple colors.\nThe price sometimes appears as \"$9.99\".\n\n--- INLINE JSON\n{\n  \"id\": \"prod-1001\",\n  \"title\": \"Widget A\",\n  \"slug\": \"widget-a\",\n  \"pricing\": {\"price_usd\": \"9.99\", \"inventory\": 120},\n  \"release_date\": \"2025-11-01\"\n}", "_chunk_type": "yaml"}
+{"_id": {"$oid": "69188a92ff6409490ebfb22d"}, "id": "prod-1001", "title": "Widget A", "slug": "widget-a", "pricing": {"price_usd": "9.99", "inventory": 120}, "release_date": "2025-11-01"}
+{"_id": {"$oid": "69188a93ff6409490ebfb233"}, "title": "\"Widget A - 2025\"", "published": "2025-11-18", "authors": "", "tags": ""}
+{"_id": {"$oid": "69188a93ff6409490ebfb234"}, "title": "Widget A - 2025", "published": "2025-11-18", "authors": ["Editorial Team"], "tags": ["gadget", "featured"]}
+{"_id": {"$oid": "69188a93ff6409490ebfb235"}, "value": "This markdown contains frontmatter YAML and inline html <span>tags</span>."}
+{"_id": {"$oid": "69188a93ff6409490ebfb236"}, "_raw": "<span>tags</span>", "_chunk_type": "html"}
+{"_id": {"$oid": "69188a93ff6409490ebfb23d"}, "_raw": "{ \"id\": \"prod-b-1\", \"title\": \"Broken JSON\", \"specs\": { \"color\": \"red\", }  \"notes\": \"missing comma\"", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a93ff6409490ebfb23e"}, "{ \"id\"": "\"prod-b-1\", \"title\": \"Broken JSON\", \"specs\": { \"color\": \"red\", }  \"notes\": \"missing comma\""}
+{"_id": {"$oid": "69188a93ff6409490ebfb23f"}, "author": "Alice", "rating": "5"}
+{"_id": {"$oid": "69188a93ff6409490ebfb240"}, "author": "Bob", "rating": "4"}
+{"_id": {"$oid": "69188a93ff6409490ebfb241"}, "author": "Dave", "rating": "4", "date": "2025-10-18"}
+{"_id": {"$oid": "69188a93ff6409490ebfb242"}, "author": "Eve", "rating": "2", "date": "18-10-2025"}
+{"_id": {"$oid": "69188a94ff6409490ebfb24a"}, "l0cation": "Warehouse 9", "Prices shown": "9.99 USD, $9.99, 9,99", "Dates": "12/13/2025 and 13/12/2025 (ambiguous)", "OCR errors": "l0cation -> location, O vs 0 confusion"}
+{"_id": {"$oid": "69188a94ff6409490ebfb24b"}, "_raw": "l0cation: Warehouse 9\nWidget A — a versatile widget.\nPrices shown: 9.99 USD, $9.99, 9,99\nDates: 12/13/2025 and 13/12/2025 (ambiguous)\nOCR errors: l0cation -> location, O vs 0 confusion\n--- TABLE ---\nProductID,Name,Color,Stock\nprod-1001,Widget A,black,120", "_chunk_type": "yaml"}
+{"_id": {"$oid": "69188a94ff6409490ebfb24c"}, "_raw": "Prices shown: 9.99 USD, $9.99, 9,99", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a94ff6409490ebfb24d"}, "_raw": "OCR errors: l0cation -> location, O vs 0 confusion", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a94ff6409490ebfb24e"}, "ProductID": "prod-1001", "Name": "Widget A", "Color": "black", "Stock": "120"}
+{"_id": {"$oid": "69188a95ff6409490ebfb252"}, "Contact us at (555) 123-4567. Promo code": "SAVE10."}
+{"_id": {"$oid": "69188a95ff6409490ebfb258"}, "id": "prod-evo-1", "title": "Evo Widget", "price_usd": "9.99", "views": 1024}
+{"_id": {"$oid": "69188a95ff6409490ebfb259"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price_usd\": \"9.99\", \"views\": 1024 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a95ff6409490ebfb25a"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price_usd\": \"9.99\", \"views\": 1024 }"}
+{"_id": {"$oid": "69188a96ff6409490ebfb260"}, "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "currency": "USD", "views": "N/A"}
+{"_id": {"$oid": "69188a96ff6409490ebfb261"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"currency\": \"USD\", \"views\": \"N/A\" }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a96ff6409490ebfb262"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"currency\": \"USD\", \"views\": \"N/A\" }"}
+{"_id": {"$oid": "69188a96ff6409490ebfb268"}, "id": "prod-evo-1", "title": "Evo Widget", "price": "9.99", "legacy_price": "9.9900", "views": "N/A"}
+{"_id": {"$oid": "69188a96ff6409490ebfb269"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": \"9.99\", \"legacy_price\": \"9.9900\", \"views\": \"N/A\" }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a96ff6409490ebfb26a"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": \"9.99\", \"legacy_price\": \"9.9900\", \"views\": \"N/A\" }"}
+{"_id": {"$oid": "69188a97ff6409490ebfb270"}, "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "metadata": {"imported_from": "scraper-v2"}}
+{"_id": {"$oid": "69188a97ff6409490ebfb271"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"metadata\": { \"imported_from\": \"scraper-v2\" } }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a97ff6409490ebfb272"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget\", \"price\": 9.99, \"metadata\": { \"imported_from\": \"scraper-v2\" } }"}
+{"_id": {"$oid": "69188a97ff6409490ebfb278"}, "id": "prod-evo-1", "title": "Evo Widget v5", "price": 9.99, "dimensions": {"w_mm": 120, "h_mm": 45}}
+{"_id": {"$oid": "69188a97ff6409490ebfb279"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v5\", \"price\": 9.99, \"dimensions\": {\"w_mm\":120,\"h_mm\":45} }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a97ff6409490ebfb27a"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v5\", \"price\": 9.99, \"dimensions\": {\"w_mm\":120,\"h_mm\":45} }"}
+{"_id": {"$oid": "69188a98ff6409490ebfb280"}, "id": "prod-evo-1", "title": "Evo Widget v6", "price": null, "views": 1500}
+{"_id": {"$oid": "69188a98ff6409490ebfb281"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v6\", \"price\": null, \"views\": 1500 }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a98ff6409490ebfb282"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v6\", \"price\": null, \"views\": 1500 }"}
+{"_id": {"$oid": "69188a98ff6409490ebfb288"}, "id": "prod-evo-1", "title": "Evo Widget v7", "price": 10.5, "currency": "USD", "tags": ["evo", "sale"]}
+{"_id": {"$oid": "69188a98ff6409490ebfb289"}, "_raw": "{ \"id\": \"prod-evo-1\", \"title\": \"Evo Widget v7\", \"price\": 10.5, \"currency\": \"USD\", \"tags\": [\"evo\",\"sale\"] }", "_chunk_type": "csv"}
+{"_id": {"$oid": "69188a98ff6409490ebfb28a"}, "{ \"id\"": "\"prod-evo-1\", \"title\": \"Evo Widget v7\", \"price\": 10.5, \"currency\": \"USD\", \"tags\": [\"evo\",\"sale\"] }"}
