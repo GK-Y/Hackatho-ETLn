@@ -1,8 +1,10 @@
 # Hackathon ETL v2
 
+#!!Please clone it into windows C drive !!
+
 ## Setup
 1. Create venv: `python -m venv venv`
-2. Run start.sh (WSL/Linux) or start.ps1 (Windows)
+2. Run start.ps1 (Windows)
 3. Access dashboard at http://localhost:8000
 
 ## Features
