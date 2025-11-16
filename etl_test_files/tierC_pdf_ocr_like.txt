@@ -1,0 +1,10 @@
+Page 1 of 3
+Product catalog - Example Corp
+l0cation: Warehouse 9
+Widget A — a versatile widget.
+Prices shown: 9.99 USD, $9.99, 9,99
+Dates: 12/13/2025 and 13/12/2025 (ambiguous)
+OCR errors: l0cation -> location, O vs 0 confusion
+--- TABLE ---
+ProductID,Name,Color,Stock
+prod-1001,Widget A,black,120

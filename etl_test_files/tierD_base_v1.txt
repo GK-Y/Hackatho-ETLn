@@ -1,0 +1,1 @@
+{ "id": "prod-evo-1", "title": "Evo Widget", "price_usd": "9.99", "views": 1024 }

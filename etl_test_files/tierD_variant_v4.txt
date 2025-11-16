@@ -1,0 +1,1 @@
+{ "id": "prod-evo-1", "title": "Evo Widget", "price": 9.99, "metadata": { "imported_from": "scraper-v2" } }

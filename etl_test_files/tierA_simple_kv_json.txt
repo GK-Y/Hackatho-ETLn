@@ -1,0 +1,15 @@
+# Simple key-value + JSON + paragraph
+source: https://example.com/product/widget-a
+scraper: simple-scraper-v1
+
+Widget A is a compact device for everyday use. It comes in multiple colors.
+The price sometimes appears as "$9.99".
+
+--- INLINE JSON
+{
+  "id": "prod-1001",
+  "title": "Widget A",
+  "slug": "widget-a",
+  "pricing": {"price_usd": "9.99", "inventory": 120},
+  "release_date": "2025-11-01"
+}

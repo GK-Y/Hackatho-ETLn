@@ -1,0 +1,12 @@
+{ "id": "prod-b-1", "title": "Broken JSON", "specs": { "color": "red", }  "notes": "missing comma"  
+
+<table>
+<thead><tr><th>author</th><th>rating</th></tr></thead>
+<tbody>
+<tr><td>Alice</td><td>5</td></tr>
+<tr><td>Bob</td><td>4</td></tr>
+</tbody></table>
+
+author,rating,date
+Dave,4,2025-10-18
+Eve,2,18-10-2025

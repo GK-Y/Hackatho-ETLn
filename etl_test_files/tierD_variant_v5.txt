@@ -1,0 +1,1 @@
+{ "id": "prod-evo-1", "title": "Evo Widget v5", "price": 9.99, "dimensions": {"w_mm":120,"h_mm":45} }
