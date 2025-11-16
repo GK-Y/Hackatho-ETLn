@@ -1,9 +1,9 @@
 ## !!This code will only run on c drive of windows under folder name Hackathon !!
 
 ### Dash Board:
-![DashBoard1](/home/yep22/Club/ETL/Hackathon 4/Images/img1.jpeg)
+![DashBoard1](Images/img1.jpeg)
 
-![DashBoard1](/home/yep22/Club/ETL/Hackathon 4/Images/img2.jpeg)
+![DashBoard1](Images/img2.jpeg)
 
 --- 
 
