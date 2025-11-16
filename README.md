@@ -1,4 +1,3 @@
-## !!This code will only run on c drive of windows under folder name Hackathon !!
 
 ### Dash Board:
 ![DashBoard1](Images/img1.jpeg)
