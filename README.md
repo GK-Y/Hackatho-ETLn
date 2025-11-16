@@ -1,5 +1,12 @@
 ## !!This code will only run on c drive of windows under folder name Hackathon !!
 
+### Dash Board:
+![DashBoard1](/home/yep22/Club/ETL/Hackathon 4/Images/img1.jpeg)
+
+![DashBoard1](/home/yep22/Club/ETL/Hackathon 4/Images/img2.jpeg)
+
+--- 
+
 ### 1. Project & Directory Setup
 
 | **Action**              | **Windows (PowerShell)**                                                  | **WSL (Bash)**                                                          |
